@@ -1,11 +1,11 @@
 
  let body=document.getElementsByTagName("body")[0];
  console.log('body', body);
-let bd = body.childNodes;
+let sd = body.childNodes;
 
 document.getElementsByTagName("body")[0]
 
- pions = body.geadd.tElementsByClassName("bon");
+ pions = body.getElementsByClassName("pion");
 
 console.log(pions);
 console.log(pions[0]);
