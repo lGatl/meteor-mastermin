@@ -1,0 +1,69 @@
+
+html, body{
+	margin:0;
+	padding:0;
+	height: 100%;
+	width: 100%;
+}
+
+body{
+	height: 100%;
+	width: 100%;
+	background-color:rgba(0,255,0,1);
+}
+.gauche{
+	float:left;
+	width: 80%;
+	height:100%;
+	background-color:rgba(255,0,0,1)
+}
+
+
+.droite{
+	float:left;
+	width: 20%;
+	height:100%;
+}
+
+.bon{
+	float:left;
+	width: 100%;
+	height:10%;
+	background-color:rgba(20,0,155,1)
+}
+
+.essaies{
+	float:left;
+	width: 100%;
+	height:90%;
+	background-color:rgba(255,0,0,1)
+}
+
+.reponse{
+	float:left;
+	width: 100%;
+	height:90%;
+	background-color:rgba(0,0,255,1)
+}
+
+.menu{
+	float:left;
+	width: 100%;
+	height:10%;
+	background-color:rgba(100,100,0,1)
+}
+.test{
+	float:left;
+	width: 100%;
+	height:7.5%;
+	background-color:rgba(10,190,20,1)
+}
+.pion{
+	width:25%;
+	line-height: 100%;
+	height:100%;
+	background-color:rgba(50,190,65,1)
+}
+
+
+
